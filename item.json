@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "brand_name": "Ensure Life",
+      "name": "Milk Powder(vanilla/Chocolate Flavour/Strawberry)",
+      "weight": "180g",
+      "price": 0,
+      "old_price": 25000,
+      "promotion_type": "buy 1 get 1 free",
+      "buy": "1 box",
+      "freeget_item": "shaker",
+      "description": "buy 1 get free 1 shaker",
+      "start_date": "2016-09-30",
+      "end_date": "2016-10-08",
+      "created_at": "2016-09-29 05:00:00",
+      "updated_at": "2016-09-29 05:00:00"
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "brand_name": "Pepsi/7UP",
+      "name": "Mirinda Orange",
+      "weight": "1.25Ltr",
+      "price": 1400,
+      "old_price": 1600,
+      "promotion_type": "buy each",
+      "buy": "1 bottle",
+      "freeget_item": "",
+      "description": "buy 1 item",
+      "start_date": "2016-10-01",
+      "end_date": "2016-10-08",
+      "created_at": "2016-09-29 18:00:00",
+      "updated_at": "2016-09-29 18:00:00"
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "brand_name": "Burn",
+      "name": "Energy Drink",
+      "weight": "250 ml",
+      "price": 0,
+      "old_price": 0,
+      "promotion_type": "15%off",
+      "buy": "6 cans",
+      "freeget_item": "",
+      "description": "buy 6 cans 15%off discount",
+      "start_date": "2016-09-30",
+      "end_date": "2016-09-03",
+      "created_at": "2016-09-29 09:22:23",
+      "updated_at": "2016-09-29 09:22:23"
+    }
+  ]
+}
